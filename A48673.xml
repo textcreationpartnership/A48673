@@ -1,0 +1,708 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A List of the names of all the adventurers in the new general stock to East-India, who have taken the last oath agreed on by the generality, December the 8, 1657 wherein note that this mark (*) doth signifie such as are capable of being elected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48673</idno>
+            <idno type="STC">Wing L2460</idno>
+            <idno type="STC">ESTC R179835</idno>
+            <idno type="EEBO-CITATION">18368252</idno>
+            <idno type="OCLC">ocm 18368252</idno>
+            <idno type="VID">107408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107408)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A List of the names of all the adventurers in the new general stock to East-India, who have taken the last oath agreed on by the generality, December the 8, 1657 wherein note that this mark (*) doth signifie such as are capable of being elected.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_names">
+            <pb facs="tcp:107408:1" rendition="simple:additions"/>
+            <head>A LIST of the Names of all the Adventurers in the New General Stock to <hi>Eaſt-India,</hi> who have taken the laſt Oath agreed on by the Generality, <hi>December</hi> the 8. 1657. wherein note that this Mark (*) doth ſignifie ſuch as are Capable of being Elected.</head>
+            <list>
+               <head>A.</head>
+               <item>* Thomas Andrews Eſq.</item>
+               <item>* Daniel Andrewes Eſq.</item>
+               <item>Robert Archer.</item>
+               <item>* Sir Tho. Andrewes Knt.</item>
+               <item>* Joſeph Alſtone.</item>
+               <item>* Joſeph Aſhe.</item>
+               <item>* William Atwood.</item>
+               <item>* Francis Aſh Eſq.</item>
+               <item>Thomas Aldworth.</item>
+               <item>* Francis Archer.</item>
+               <item>* William Allington.</item>
+               <item>* William Allen.</item>
+               <item>Joſeph Archer.</item>
+               <item>Iſaac Allen.</item>
+               <item>John Aſhton.</item>
+               <item>William Allott.</item>
+               <item>* John Adrian.</item>
+               <item>* Thomas Allen.</item>
+               <item>John Addis.</item>
+               <item>Roger Aſcue.</item>
+               <item>Francis Archer.</item>
+               <item>Edmund Albury.</item>
+               <item>* Fr. Allein Eſq.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>* John Bathurſt.</item>
+               <item>Arthur Baylye.</item>
+               <item>* John Bankes.</item>
+               <item>* John Broockhaven.</item>
+               <item>* Gifford Bale.</item>
+               <item>Arthur Betſworthe.</item>
+               <item>* Richard Boylſtone.</item>
+               <item>* James Burton.</item>
+               <item>Leonard Bates.</item>
+               <item>* Thomas Byde.</item>
+               <item>* Theoph. Biddulph Eſq.</item>
+               <item>* Anthony Bateman Ald.</item>
+               <item>* Thomas Bretton.</item>
+               <item>* Nathaniel Barnardiſton.</item>
+               <item>* Thomas Bewlie.</item>
+               <item>Thomas Blackerby.</item>
+               <item>* George Berkly Eſq.</item>
+               <item>Robert Brimly.</item>
+               <item>* Robert Burdett.</item>
+               <item>Edward Beeker.</item>
+               <item>* Richard Booth.</item>
+               <item>* William Bulkeley.</item>
+               <item>* Edward Bolle Eſq.</item>
+               <item>* Humphrey Broom.</item>
+               <item>* Benjamin Baron.</item>
+               <item>George Blake.</item>
+               <item>* Henry Barnard.</item>
+               <item>James Baron.</item>
+               <item>* Francis Bickly.</item>
+               <item>Richard Brigginſhaw.</item>
+               <item>Philip op de Becke.</item>
+               <item>Robert Baxter.</item>
+               <item>* Richard Beckford.</item>
+               <item>William Beauchamp.</item>
+               <item>* Sam. Barnardiſton.</item>
+               <item>John Bateman.</item>
+               <item>* Jan. Vander Bergh.</item>
+               <item>Andrew Brandon.</item>
+               <item>* John Lord Barkſtead.</item>
+               <item>Peter Barwick.</item>
+               <item>* Thomas Bell.</item>
+               <item>John Bathersby.</item>
+               <item>Thomas Bonfoy.</item>
+               <item>* Ninion Butcher.</item>
+               <item>Richard Barker.</item>
+               <item>* Robert Beake.</item>
+               <item>* Nathaniel Brandon.</item>
+               <item>Charles Barskdale.</item>
+               <item>William Buckeredge.</item>
+               <item>Robert Browne.</item>
+               <item>William Bowtell.</item>
+               <item>* Edwin Browne.</item>
+               <item>John Beare.</item>
+               <item>Stephen Bolton.</item>
+               <item>Joas Bateman.</item>
+               <item>* Tobias Bridge.</item>
+               <item>* Tho. Bludworth.</item>
+               <item>VVilliam Beeke.</item>
+               <item>* Jo. Beresford.</item>
+               <item>Robert Beard.</item>
+               <item>* Edward Burrowes.</item>
+               <item>Oliver Bowles.</item>
+               <item>Edward Boverie.</item>
+               <item>Joſeph Binns.</item>
+               <item>* William Barker.</item>
+               <item>Richard Brown.</item>
+               <item>Thomas Barton.</item>
+               <item>* Richard Baker.</item>
+               <item>* Thomas Burnell.</item>
+               <item>* Aaron Baker.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>* Will. Cockayne Eſq.</item>
+               <item>* Henry Chowne.</item>
+               <item>* Benjamin Coles.</item>
+               <item>* Thomas Culling.</item>
+               <item>* John Crowther.</item>
+               <item>* John Cheuall.</item>
+               <item>Henry Corwell.</item>
+               <item>* John Clitherowe.</item>
+               <item>* Francis Clerke.</item>
+               <item>* Ri. Cheverton. L. Major.</item>
+               <item>* John Childe.</item>
+               <item>* George Chandler.</item>
+               <item>Peter Cully.</item>
+               <item>* Robert Cranmer.</item>
+               <item>* William Clerke.</item>
+               <item>William Collins.</item>
+               <item>* Joſeph Collyer.</item>
+               <item>* Benjam. Collyer.</item>
+               <item>* Tho. Chambrelayne.</item>
+               <item>John Croſon.</item>
+               <item>* Humphrey Cliffe.</item>
+               <item>* John Cudworth.</item>
+               <item>* Joſiah Childe.</item>
+               <item>George Cleare.</item>
+               <item>* William Cox.</item>
+               <item>John Crichlowe.</item>
+               <item>John Congrewe.</item>
+               <item>Joſeph Caryll.</item>
+               <item>James Corſellis.</item>
+               <item>Abraham Clerke.</item>
+               <item>John Cliſſald.</item>
+               <item>Robert Childcoat.</item>
+               <item>* Nath. Collyer.</item>
+               <item>Tho. Cheſhire.</item>
+               <item>* Nicholas Cook.</item>
+               <item>* John Carleton.</item>
+               <item>Tobias Criſp.</item>
+               <item>* William Chriſtmas.</item>
+               <item>Robert Canning.</item>
+               <item>Henry Chitty.</item>
+               <item>George Clerke.</item>
+               <item>* Col. Jo. Clerke.</item>
+               <item>John Caſeby.</item>
+               <item>* Joſeph Colſtone.</item>
+               <item>* John Cooke.</item>
+               <item>Charles Corſellis.</item>
+               <item>* Ellis Criſp.</item>
+               <item>* Ri. Clutterbuck Eſq.</item>
+               <item>* James Clitherow.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>* Sir James Drax.</item>
+               <item>* Mich. Daviſon.</item>
+               <item>Joſias Dewey.</item>
+               <item>* Sir John Dethick.</item>
+               <item>Richard Duke.</item>
+               <item>* Symon Delbowe.</item>
+               <item>* Charles Doyly.</item>
+               <item>Thomas Davys.</item>
+               <item>* John Doggett.</item>
+               <item>Henry Davy.</item>
+               <item>John Davenport.</item>
+               <item>* Edward Dudſon.</item>
+               <item>* Robert Dawes.</item>
+               <item>* William Drax.</item>
+               <item>Joſeph Denham.</item>
+               <item>Andrew Duncan.</item>
+               <item>Chriſtopher Deering.</item>
+               <item>Gyles Dunſter.</item>
+               <item>Nichol. Delves.</item>
+               <item>Henry Day.</item>
+               <item>Mat. Datcheler.</item>
+               <item>* Peter Delanoy.</item>
+               <item>Peter Ducane.</item>
+               <item>Benjam. Ducane.</item>
+               <item>George Dingley.</item>
+               <item>Tho. Davall.</item>
+               <item>* Ri. Davidge.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Richard Edge.</item>
+               <item>John Evelyn.</item>
+               <item>John Elwick.</item>
+               <item>* James Edwards.</item>
+               <item>* Robert Ellis.</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>* John Frederick Ald.</item>
+               <item>* Sir Thomas Foot.</item>
+               <item>* Richard Foard.</item>
+               <item>* Edward Francklyn.</item>
+               <item>Joſeph Finch.</item>
+               <item>Samuel Fowle.</item>
+               <item>* Thomas Fox.</item>
+               <item>Chriſtopher Foſter.</item>
+               <item>Robert Fellowes.</item>
+               <item>Thomas Frampton.</item>
+               <item>Francis Fowke.</item>
+               <item>John Fenton.</item>
+               <item>* Thomas Foard.</item>
+               <item>* Sam. Foot.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>* John Godscall.</item>
+               <item>* George Gosfreight.</item>
+               <item>William Gough.</item>
+               <item>* Thomas Griffith.</item>
+               <item>* Maurice Githen.</item>
+               <item>Benjamin Glanvill.</item>
+               <item>Edward Griffith.</item>
+               <item>Thomas Grendon.</item>
+               <item>* John Gurney.</item>
+               <item>* William Gomeldon.</item>
+               <item>* Robert Geffery.</item>
+               <item>Matthew Goodfellow.</item>
+               <item>* John Gould.</item>
+               <item>* Thomas Gower.</item>
+               <item>John Green.</item>
+               <item>John Giffard.</item>
+               <item>Richard Garford.</item>
+               <item>James Granger.</item>
+               <item>Edward Green.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>* Matthew Halworthy.</item>
+               <item>* John Hobby.</item>
+               <item>* John Hether.</item>
+               <item>* Nathan. Herne.</item>
+               <item>* Richard Hiller.</item>
+               <item>* Roger Hatton.</item>
+               <item>* John Harris.</item>
+               <item>John Hawes.</item>
+               <item>* Richard Hutchinſon.</item>
+               <item>* Abrah. Hovener.</item>
+               <item>* Walter Hampton.</item>
+               <item>Cordwell Hammond.</item>
+               <item>Henry Hickford.</item>
+               <item>* Deirick Hoſt.</item>
+               <item>* Edward Hopegood.</item>
+               <item>* William Harrington.</item>
+               <item>Thomas Hatton.</item>
+               <item>John Harborne.</item>
+               <item>John Hill.</item>
+               <item>Thomas Heighlord.</item>
+               <item>* William Hooker.</item>
+               <item>* Thomas Hawkes.</item>
+               <item>* Joſeph Hall.</item>
+               <item>* Robert Handſon.</item>
+               <item>Henry Hunter.</item>
+               <item>Benjamin Huling.</item>
+               <item>* James Hobleon.</item>
+               <item>Peter Hobleon.</item>
+               <item>* John. Hobby.</item>
+               <item>John Harriſon.</item>
+               <item>Nathan. Herring.</item>
+               <item>* Rich. and John Hobby.</item>
+               <item>* Thomas Heatly.</item>
+               <item>* Humphrey Holdcombe.</item>
+               <item>John Hooper.</item>
+               <item>Ambroſe Hawkes.</item>
+               <item>Frederick Harvey.</item>
+               <item>* Edmund Harriſon.</item>
+               <item>* Tobia Harvey.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>* Thomas Juxon.</item>
+               <item>* Abraham Jaggard.</item>
+               <item>* Robert Ingram.</item>
+               <item>* Arthur Ingram.</item>
+               <item>Rowland Jewkes.</item>
+               <item>Richard Jeames.</item>
+               <item>Samuel Ironſide.</item>
+               <item>Henry Johnſon.</item>
+               <item>* Edward Jackſon.</item>
+               <item>Philip Iackſon.</item>
+               <item>* Philip Jegur.</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>* William Kiffen.</item>
+               <item>* Jonathan Keate.</item>
+               <item>* Thomas Kindall.</item>
+               <item>George Keate.</item>
+               <item>* Francis Knight.</item>
+               <item>* Robert Knightly.</item>
+               <item>Joſeph King.</item>
+               <item>* Randolph Knipe.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>* John Lewis.</item>
+               <item>* Stephen Langham.</item>
+               <item>* Godfrey Lee.</item>
+               <item>* James Leaver.</item>
+               <item>Richard Lyngham.</item>
+               <item>* John Lawr. Iun.</item>
+               <item>* Robert Lant.</item>
+               <item>* Richard Lant.</item>
+               <item>* Peter Lear.</item>
+               <item>* Thomas Lenthall.</item>
+               <item>Samuel Lee Iun.</item>
+               <item>* Thomas Lewys.</item>
+               <item>Barthol. Layton.</item>
+               <item>* Thomas Lechmere.</item>
+               <item>* John Leverett.</item>
+               <item>Hugh Lawton.</item>
+               <item>Walrave Lodwick.</item>
+               <item>Richard Langley.</item>
+               <item>* VVilliam Lowfield.</item>
+               <item>* VVilliam Love.</item>
+               <item>Lawrence Loe.</item>
+               <item>Adam Lyell.</item>
+               <item>Henry Luke.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>* Samuel Moyer Eſq.</item>
+               <item>* Richard Mounteney.</item>
+               <item>* John Maſcall.</item>
+               <item>* Daniel Matthewes.</item>
+               <item>* William Moyer.</item>
+               <item>* Thomas Martin.</item>
+               <item>* John Mewes.</item>
+               <item>James Moyer.</item>
+               <item>Francis Meynell.</item>
+               <item>* Tempeſt Melner Ald.</item>
+               <item>* Barnabas Meere.</item>
+               <item>* John Moore.</item>
+               <item>* William Mead.</item>
+               <item>* Robert Morris.</item>
+               <item>George Moore.</item>
+               <item>Thomas Murthwaite.</item>
+               <item>* Charles Mauriſcoe.</item>
+               <item>Richard Morſe.</item>
+               <item>* James Modyford.</item>
+               <item>Joſias Maes.</item>
+               <item>Richard Moſſe.</item>
+               <item>* Lawrence Martell.</item>
+               <item>* William Manne.</item>
+               <item>Silvanus Morgan.</item>
+               <item>Benjamin Martin.</item>
+               <item>Abraham Moone.</item>
+               <item>* Elias Morais.</item>
+               <item>Joſeph Munday.</item>
+               <item>Samuel Murhall.</item>
+               <item>Abraham Molyne.</item>
+               <item>John Mahewe.</item>
+               <item>John Marſh.</item>
+               <item>Richard Mitchelborn.</item>
+               <item>Thomas Meddlicott.</item>
+               <item>Samuel Marsb.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>* Martin Noell Eſq.</item>
+               <item>* Hugh Norris.</item>
+               <item>Roger Nettleſhipp.</item>
+               <item>* Michael Newman.</item>
+               <item>William Nicols.</item>
+               <item>* Humphrey Nicolſon.</item>
+               <item>Henry Negus.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>* David Otgher Sen.</item>
+               <item>* David Otgher Jun.</item>
+               <item>* Capt. Io. Owen.</item>
+               <item>Robert Oſler.</item>
+               <item>David Offley.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>* Robert Perſon.</item>
+               <item>* Richard Polter.</item>
+               <item>* Thomas Lo. Pride.</item>
+               <item>* Thomas Puckle.</item>
+               <item>* Anthony Philp.</item>
+               <item>Peter Proby.</item>
+               <item>* Thomas Papillon.</item>
+               <item>Charles Proby.</item>
+               <item>John Perſon.</item>
+               <item>* Edward Pearce.</item>
+               <item>* VVilliam Prettyman.</item>
+               <item>* VValter Pell Eſq.</item>
+               <item>* John Parry.</item>
+               <item>VVilliam Packer.</item>
+               <item>Adrian vand' Pouſt.</item>
+               <item>John Page.</item>
+               <item>John Pemeſ.</item>
+               <item>Thomas Potter.</item>
+               <item>VVilliam Potter.</item>
+               <item>Samuel Payne.</item>
+               <item>* Charles Pitfeld.</item>
+               <item>* Peter vande Putt.</item>
+               <item>John Pargiter Sen.</item>
+               <item>VVilliam Peake.</item>
+               <item>* Thomas Pearle.</item>
+               <item>John Pettiwarde.</item>
+               <item>* Thomas Plampine.</item>
+               <item>Thomas Perkins.</item>
+               <item>* Chriſtoph. Lo. Pack.</item>
+               <item>Leonard Pead.</item>
+               <item>* Paul Priaulx.</item>
+               <item>Jo. Phelps.</item>
+               <item>Jo. Pack.</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>* Andrew Riccards Eſq.</item>
+               <item>* Capt. William Ryder.</item>
+               <item>* Thomas Roberts.</item>
+               <item>Edward Romball.</item>
+               <item>Iohn Roger.</item>
+               <item>Thomas Robinſon.</item>
+               <item>Thomas Raſtell.</item>
+               <item>Richard Reeves.</item>
+               <item>Nicholas Roberts.</item>
+               <item>Ierom Royſtorne.</item>
+               <item>VValter Radcliffe.</item>
+               <item>* Iohn Ramſey.</item>
+               <item>* Samuel Richardſon.</item>
+               <item>* John Robinſon.</item>
+               <item>Robert Ruſſel.</item>
+               <item>* Daniel Rawlinſon.</item>
+               <item>* Iohn Roy.</item>
+               <item>Edward Richardſon.</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Iohn Samyne.</item>
+               <item>* Iacob Strange.</item>
+               <item>* Richard Spencer.</item>
+               <item>* Iohn Sweeting Sen.</item>
+               <item>* Francis Sampſon.</item>
+               <item>* George Smith.</item>
+               <item>VVill. Smith.</item>
+               <item>* Abraham Sayon.</item>
+               <item>George Snell.</item>
+               <item>VVilliam Standen.</item>
+               <item>John Sayer.</item>
+               <item>John Skinner.</item>
+               <item>Edward Story.</item>
+               <item>Thomas Smith.</item>
+               <item>* VVilliam Sherrington.</item>
+               <item>* Iames Smith.</item>
+               <item>Anthony Stanford.</item>
+               <item>Iſaac Stanton.</item>
+               <item>John Sweeting Jun.</item>
+               <item>* John Smith.</item>
+               <item>* Matthew Sheppard.</item>
+               <item>James Southerby.</item>
+               <item>* Richard Swanne.</item>
+               <item>* Richard Sherbrook.</item>
+               <item>* Thomas Stock.</item>
+               <item>Jacob Stock.</item>
+               <item>VVilliam Sedgwick Jun.</item>
+               <item>VVilliam Sledd.</item>
+               <item>VVilliam Salmon.</item>
+               <item>Daniel Shatterden.</item>
+               <item>John Shaxton.</item>
+               <item>VVilliam Samborne.</item>
+               <item>Richard Slany.</item>
+               <item>Robert Share.</item>
+               <item>* Samuel Swinock.</item>
+               <item>Symond Smith.</item>
+               <item>Harman Sheafe.</item>
+               <item>John Sandys.</item>
+               <item>* Samuel Sambrook.</item>
+               <item>Richard Seaborne.</item>
+               <item>John. Shorter.</item>
+               <item>* Richard Shute.</item>
+               <item>Ralph Smith.</item>
+               <item>John Short.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>* Richard Thorowgood.</item>
+               <item>* John Taylor.</item>
+               <item>* Maur. Thompſon Gov.</item>
+               <item>George Torriano.</item>
+               <item>John. Tutchin.</item>
+               <item>* Ro. Lo. Titchborne.</item>
+               <item>* Charles Thurrold.</item>
+               <item>* VVill. Thompſon Ald.</item>
+               <item>* Jeffery Thomas.</item>
+               <item>Matthew Turner.</item>
+               <item>VVilliam Tatton.</item>
+               <item>Cleere Talbot.</item>
+               <item>Richard Taylor.</item>
+               <item>* Stephen Thornley.</item>
+               <item>* George Tuke.</item>
+               <item>Francis Tyſſen.</item>
+               <item>Francis Towle.</item>
+               <item>Job Throckmorton.</item>
+               <item>Matthew Tindall.</item>
+               <item>VVilliam Turner.</item>
+               <item>* John Tivill.</item>
+               <item>* Edward Tidcombe.</item>
+               <item>* Richard Turner.</item>
+               <item>VValter Tindall.</item>
+               <item>* Capt. Will. Thomas.</item>
+               <item>* John Tutchin.</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>* Sir Thomas Vyner.</item>
+               <item>* VVilliam Vincent.</item>
+               <item>* Nicholas Vanacker.</item>
+               <item>* VVilliam Vannam.</item>
+               <item>Tymot. Van Uletteren.</item>
+            </list>
+            <list>
+               <head>VV.</head>
+               <item>* Nathaniel VVyche.</item>
+               <item>* Richard VVaring Eſq.</item>
+               <item>* John VVoods.</item>
+               <item>Samuel VVaſtel.</item>
+               <item>* Stephen VVhite Eſq.</item>
+               <item>* VVilliam VVarren.</item>
+               <item>* Samuel Wilſon.</item>
+               <item>Joſhuah Woolnough.</item>
+               <item>* Will. Williams. Eſq.</item>
+               <item>* John. Wood.</item>
+               <item>* Thomas Waring.</item>
+               <item>* Henry VVhittingham.</item>
+               <item>Edmund White.</item>
+               <item>* Godfrey Weſtcombe.</item>
+               <item>* Geo. Witham Eſq.</item>
+               <item>Bedford Whiting.</item>
+               <item>* Andrew Weſt.</item>
+               <item>Richard Whittall.</item>
+               <item>Gyles VVhittall.</item>
+               <item>Io. Weſtly.</item>
+               <item>* Nicholas Widlbore.</item>
+               <item>John Walker.</item>
+               <item>* Valentine Wanley.</item>
+               <item>John Woodward.</item>
+               <item>* Francis Warner.</item>
+               <item>* Thomas Wilſon.</item>
+               <item>William Watts.</item>
+               <item>Nicholas Whitby.</item>
+               <item>John White.</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>John Young.</item>
+               <item>William Yorke.</item>
+               <item>Thomas Yates.</item>
+               <item>John Young.</item>
+            </list>
+            <div type="list_of_names">
+               <head>The Names of the preſent Governour, De<g ref="char:EOLhyphen"/>puty, and Committees.</head>
+               <list>
+                  <item>MAURICE THOMSON <hi>Eſq. Governour.</hi>
+                  </item>
+                  <item>THOMAS ANDREW <hi>Eſq. Deputy.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>Chriſtopher Lo. Pack.</item>
+                  <item>Robert Lo. Titchbourne.</item>
+                  <item>Sir Tho. Foot Knt.</item>
+                  <item>Sir James Drax Knt.</item>
+                  <item>Ald. William Thomſon.</item>
+                  <item>Ald. John Frederick.</item>
+                  <item>Ald. Nat. Temmsdeceaf'd</item>
+                  <item>Ald. Anth. Bateman.</item>
+                  <item>VVill. Cockayne Eſq.</item>
+                  <item>Andr. Riccard Eſq.</item>
+                  <item>Theoph. Biddulph Eſq.</item>
+                  <item>Will. Williams Eſq.</item>
+                  <item>Martin-Noell Eſq.</item>
+                  <item>Samuel Moyer Eſq.</item>
+                  <item>Iohn Lewis Eſq.</item>
+                  <item>Capt. William Ryder</item>
+                  <item>Mr. William Vincent.</item>
+                  <item>Mr. Nathaniel Wyche now gone for <hi>India.</hi>
+                  </item>
+                  <item>Mr. Edward Pearce.</item>
+                  <item>Mr. Tho. Bludworth.</item>
+                  <item>Mr. Robert Cranmer.</item>
+                  <item>Mr. Iohn Iollife.</item>
+                  <item>Mr. VVilliam Love.</item>
+                  <item>Captain Rich. swanne.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
